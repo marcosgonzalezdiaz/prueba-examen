@@ -2,4 +2,4 @@
 Primer repo de github
 
 ## descripción 
-Esto repo es para repasar para un examen
+Esto repo es para repasar para un examen.
